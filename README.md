@@ -4,7 +4,7 @@
 
 • Preprocessed 150,000 issues with title and body data, balancing classes and vectorizing text with TF-IDF.
 
-• Trained various models, including RNN, LSTM, BERT, and MLP, achieving the highest accuracy of 69% with
+• Trained various models, including RNN, LSTM, BERT, and MLP achieving the highest accuracy of 69% with
 the MLP model.
 
 • Automated issue categorization, reducing manual effort and improving scalability.
